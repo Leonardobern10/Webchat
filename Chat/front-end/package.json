@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/socket.io-client": "^1.4.36",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
