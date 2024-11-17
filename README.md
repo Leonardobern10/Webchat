@@ -90,6 +90,4 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 ## Contato
 
 Se você tiver dúvidas ou sugestões, entre em contato pelo e-mail: **leonardo.bernardo2658@gmail.com**.
-- **Licença**: Informa que o projeto está sob a **MIT License**, o que permite o uso e modificação do código livremente, com algumas condições.
-
-- **Contato**: Oferece um meio de contato caso o usuário tenha dúvidas ou queira contribuir com ideias.
+Podem também me procurar no [linkedin](https://www.linkedin.com/in/leonardo-bern/);
