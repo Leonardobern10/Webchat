@@ -89,5 +89,5 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## Contato
 
-Se você tiver dúvidas ou sugestões, entre em contato pelo e-mail: **leonardo.bernardo2658@gmail.com**.
-Podem também me procurar no [linkedin](https://www.linkedin.com/in/leonardo-bern/);
+- Se você tiver dúvidas ou sugestões, entre em contato pelo e-mail: **leonardo.bernardo2658@gmail.com**.
+- Estou disponivel também no Linkedin. Pode me encontrar clicando aqui ➡️ [link](https://www.linkedin.com/in/leonardo-bern/);
